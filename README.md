@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # <p align="center"> Welcome to my research</p>
+=======
+# <center>Welcome to my research</center>
+>>>>>>> 2677b97e2ff62717ff8868199a24cf8779fd9897
 
 ## Work Introduction
 ### &emsp;&emsp;In this repositorie I will show you my learning process on embodied ai , and the folder being provided contains a compilation of my literature and a report on the reading .</br></br>
