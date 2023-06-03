@@ -5,7 +5,7 @@
 
 
 * ## What is Embodied AI ?
-    ### &emsp;&emsp;There is now an emerging paradigm shift from the era of 'Internet AI' to the era of 'embodied AI'. That is, AI algorithms and agents no longer learn from datasets of images, videos or text primarily from the Internet, but through interaction with their environment i.e. similar to types of research such as artificial intelligence + robotics.</br></br>
+    ### &emsp;&emsp;Nowadays , there is now an emerging paradigm shift from the era of 'Internet AI' to the era of 'embodied AI'. That is, AI algorithms and agents no longer learn from datasets of images, videos or text primarily from the Internet, but through interaction with their environment i.e. similar to types of research such as artificial intelligence + robotics.</br></br>
     - ### Internet AI&nbsp;:&nbsp;learn from datasets of images, videos ortext curated primarily from the internet</br></br>
     - ### Embodied AI&nbsp;:&nbsp;learn through interactions with their environments from an egocentric perception similar to humans . </br></br>
 
